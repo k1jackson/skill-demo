@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void concatTest() {
-        assertEquals("skill demo", SkillDemo.stringConcat("skill", "demo"));
+        assertEquals("skilldemo", SkillDemo.stringConcat("skill", "demo"));
     }
 }
